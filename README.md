@@ -4,7 +4,7 @@
 
 The Hospice Volunteer Analysis.xlsx file contains an interactive dashboard designed to provide insights into volunteer activities, contributions, and engagement trends. This dashboard helps hospice administrators and volunteer coordinators make data-driven decisions to improve volunteer management and program effectiveness.
 
-Dashboard Features
+<h2>Dashboard Features</h2>
 
 Volunteer Demographics: Displays volunteer distribution by age, gender, role and ethnicity.
 
@@ -12,7 +12,7 @@ Impact Assessment: Highlights volunteer contributions to patient care and hospic
 
 Interactive Filters: Users can refine data based on time period, volunteer role, and other key factors.
 
-How to Use the Dashboard
+<h2>How to Use the Dashboard</h2>
 
 Open the Hospice Volunteer Analysis.xlsx file in Microsoft Excel or a compatible spreadsheet tool.
 
@@ -22,7 +22,7 @@ Hover over charts and tables to view detailed insights.
 
 Utilize the insights to enhance volunteer engagement strategies.
 
-Contact
+<h2>Contact</h2>
 
 For any questions or support, please open an issue in this repository or contact the project owner.
 
